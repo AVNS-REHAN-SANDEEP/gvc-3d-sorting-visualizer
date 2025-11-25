@@ -1,7 +1,11 @@
 # GVC-3d-sorting-visualizer
 (GRAPHICS AND VISUAL COMPUTING).
 
-Visualizing sorting algorithms as animated 3D blocks using Python scripting in Blender. Demonstrates GVC concepts: modeling pipeline, transformations, projections, lighting, shading, animation, and rendering.
+Visualizing sorting algorithms as animated 3D blocks using Python scripting in Blender. Demonstrates GVC concepts: modeling pipeline, transformations, projections, lighting, shading, animation, and rendering. 
+
+- Developed as an individual project for the Graphics and Visual Computing (GVC) course.
+
+- Thanks to the course instructors for introducing the underlying computer graphics concepts used in this project.
 
 
 # 3D Sorting Visualization in Blender (Bubble Sort) – GVC Project
