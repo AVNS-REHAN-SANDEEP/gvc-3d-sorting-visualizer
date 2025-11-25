@@ -1,5 +1,8 @@
 # GVC-3d-sorting-visualizer
-(GRAPHICS AND VISUAL COMPUTING).
+(GRAPHICS AND VISUAL COMPUTING). 
+By,
+### Name : A V N S REHAN SANDEEP
+### Roll No. : 24IT3001 
 
 Visualizing sorting algorithms as animated 3D blocks using Python scripting in Blender. Demonstrates GVC concepts: modeling pipeline, transformations, projections, lighting, shading, animation, and rendering. 
 
